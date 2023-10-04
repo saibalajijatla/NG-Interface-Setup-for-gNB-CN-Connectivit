@@ -13,3 +13,6 @@
 ### NGAP interface Setup
 * Components involved in NG Interface Setup
 * Configuration og NG Interface Setup
+### OAI based NGAP Handler implementation details
+* Overview of Open5GS NGAP Handler
+* Key functions and Responsibilities 

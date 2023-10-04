@@ -1,0 +1,1 @@
+# NG-Interface-Setup-for-gNB-CN-Connectivit
